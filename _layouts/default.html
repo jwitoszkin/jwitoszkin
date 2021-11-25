@@ -26,7 +26,7 @@
             <li><a href="/">Home</a></li>
             {% for recipe in site.data.recipes %}
             {% assign recipe_title = recipe.title | replace: " ","_" %}
-            <li><a href="/recipes/{{ recipe_title }}">{{ recipe.title }}</a></li>
+            <li><a href="{{site.baseurl}}/recipes/{{ recipe_title }}">{{ recipe.title }}</a></li>
             {% endfor %}
         </ul>
     </nav>
