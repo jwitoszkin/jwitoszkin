@@ -41,5 +41,187 @@
       - In a bowl, whisk the cream, cornstarch, and egg yolk. Add this mixture to the broth and vegetables. Add more broth to thin the mixture as desired. Stir constantly until the waterzooi thickens.
       - Add the chicken, season with salt and pepper, and cook for 2 to 3 more minutes at a low simmer.
       - Serve in soup plates, topped with fresh parsley
-    
-    
+  - title: Balsamic Vinagrette
+    ingredients:
+      - amount: 1/2
+        unit: cup
+        ingredient: extra virgin olive oil
+      - amount: 1/2
+        unit: cup
+        ingredient: balsamic vinegar
+      - amount: 2
+        unit: teaspoons
+        ingredient: dijon mustard
+      - amount: 1
+        unit: clove
+        ingredient: garlic, finely minced OR 1 teaspoon garlic powder
+      - amount: 1
+        unit: tablespoon
+        ingredient: honey
+      - amount: 1
+        unit: teaspoon
+        ingredient: salt
+      - amount: 1/4
+        unit: teaspoon
+        ingredient: black pepper
+    instructions:
+      - mix all ingredients together and shake to combine.
+
+  - title: Bread
+    ingredients:
+    - amount: 500
+      unit: g
+      ingredient: ap or bread flour
+    - amount: 320
+      unit: g
+      ingredient: lukewarm water
+    - amount: 15
+      unit: g
+      ingredient: instant yeast
+    - amount: 11
+      unit: g
+      ingredient: salt
+    - amount: 5
+      unit: g
+      ingredient: sugar
+    instructions:
+      - Turn oven to proof setting
+      - Combine dry ingredients in the bowl of a stand mixture
+      - Add water
+      - Using the dough hook attachment, knead until smooth, ~5 minutes
+      - form into a ball and place in mixing bowl with a plate on top
+      - proof in oven until doubled in size, roughly 1.5hr
+      - remove from oven and preheat to 425F
+      - form the dough into a ball, or place it in a loaf pan
+      - when the oven is ready, cut a slash in the top and place in the oven
+      - bake for 35 minutes.
+  - title: Chicken Stew
+    ingredients:
+    - amount: 1.5
+      unit: lbs
+      ingredient: Boneless Skinless Chicken breast
+    - amount: 1
+      unit: Tbsp
+      ingredient: canola oil or avocado oil
+    - amount: 3
+      unit: medium
+      ingredient:  carrots
+    - amount: 1
+      unit: medium
+      ingredient:  sweet onion
+    - amount: 6
+      unit: cloves
+      ingredient:  garlic 
+    - amount: 5
+      unit: cups
+      ingredient:  chicken stock
+    - amount: 2
+      unit: Tbsp
+      ingredient: . all-purpose flour
+    - amount: 1
+      unit: 
+      ingredient: bay leaf
+    - amount: 12
+      unit: oz
+      ingredient: baby white potatoes
+    - amount: .25
+      unit: cup
+      ingredient:  fresh chopped parsley
+    - amount: to taste
+      unit: 
+      ingredeint: Kosher salt and freshly ground black pepper
+    instructions:
+      - Cut all ingredients into stew sized chunks
+      - Dredge the chicken in flour
+      - Heat a large pot and add the oil
+      - Brown the meat in batches
+      - Sautee the vegetables until soft
+      - return chicken to the pot
+      - Add the chicken stock and bring to a simmer
+      - cook until well combined and thickened.
+  - title: Corn and Pea Risotto
+    ingredients:
+      - amount: 4
+        unit: cups 
+        ingredient: chicken broth
+      - amount: 2 
+        unit: TBSP
+        ingredient: extra-virgin olive oil
+      - amount: 1
+        unit: small
+        ingredient: onion
+      - amount: 1
+        unit: cup
+        ingredient: arborio rice 
+      - amount: .5 
+        unit: cup 
+        ingredient: dry white wine
+      - amount: 1 
+        unit: cup 
+        ingredient: fresh corn kernels
+      - amount: 1 
+        unit: cup 
+        ingredient: shelled peas
+      - amount: .25
+        unit:  cup
+        ingredient:  freshly grated Parmesan
+      - amount: To taste
+        unit:
+        ingredient: Salt and freshly ground pepper
+      - amount: 2
+        unit: TBSP
+        ingredient: shredded basil
+    instructions:
+      - Heat oil in a pan over medium high heat
+      - Sautee onions until softened
+      - Add rice and stir until toasted
+      - deglaze with white wine
+      - when wine is fully absorbed/evaporated, begin adding broth about a cup at a time
+      - cook stirring, adding broth as needed
+      - before adding the last of the broth, add the corn and peas
+      - once all broth has been added and absorbed, remove from heat and stir in basil, cheese, and salt and pepper.
+      - serve immediately
+  - title: Green Curry
+    ingredients: 
+      - amount: 1
+        unit: lb
+        ingredient: chicken breast
+      - amount: 3
+        unit: tbsp
+        ingredient: green curry paste
+      - amount: 1
+        unit: can
+        ingredient: lite coconut milk
+      - amount: 1
+        unit: sliced
+        ingredient: green pepper
+      - amount: 1
+        unit: Bulb
+        ingredient: Garlic
+      - amount: 2
+        unit: inch
+        ingredient: Ginger
+      - amount: 1
+        unit: lb
+        ingredient: Bean sprouts
+      - amount: 4
+        unit: stalks
+        ingredient: Celery
+      - amount: 1
+        unit: bunch
+        ingredient: Green onion
+      - amount: 1
+        unit: tbsp
+        ingredient: neutral oil
+    instructions:
+      - Prepare ingredients.  Everything should be chopped/sliced into bite sized pieces
+      - mince the garlic and ginger
+      - wash the bean sprouts
+      - Heat the oil in the wok over medium high heat
+      - Add the ginger and 1 tbsp of the green curry paste, cook for 30 seconds
+      - add chicken and stir fry until mostly cooked
+      - add in celery, onion and peppers
+      - add in coconut milk and remaining curry paste
+      - cook until everything is cooked through and sauce has reduced
+      - add in bean sprouts and garlic, cook for an additional 3 minutes
+      - serve immediately over rice.

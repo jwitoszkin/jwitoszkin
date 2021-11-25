@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-{% assign recipe = site.data.recipes | where: title,page.title %}
-{{recipe[0]}}
-<h1>{{recipe[0].title}}</h1>
+{% assign recipe = site.data.recipes | where: "title",page.title %}
 
 <h2>Ingredients</h2>
 <table>
