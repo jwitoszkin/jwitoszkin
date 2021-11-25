@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% assign recipe = site.data.recipes | where: title,page.title %}
+{{recipe[0]}}
+<h1>{{recipe[0].title}}</h1>
+
+<h2>Ingredients</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Unit</th>
+            <th>Ingredient</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for ingredient in recipe[0].ingredients %}
+        <tr>
+            <td>{{ ingredient.amount }}</td>
+            <td>{{ ingredient.unit }}</td>
+            <td>{{ ingredient.ingredient }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Instructions</h2>
+<ol>
+    {% for instruction in recipe[0].instructions %}
+    <li>{{ instruction }}</li>
+    {% endfor %}
+</ol>
+{{ content }}
